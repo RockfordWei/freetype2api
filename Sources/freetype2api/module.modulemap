@@ -1,0 +1,4 @@
+module freetype2api [system] {
+  header "freetype2api.h"
+  export *
+}
